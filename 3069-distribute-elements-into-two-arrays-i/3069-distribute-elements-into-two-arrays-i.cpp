@@ -6,16 +6,15 @@ public:
 
         v1.push_back(nums[0]);
         v2.push_back(nums[1]);
-        int p1=0;
-        int p2=0;
+        
         for(int i=2;i<nums.size();i++){
             
-            if (v1[p1]>v2[p2]){
+            if (v1.back()>v2.back()){
                 v1.push_back(nums[i]);
-                p1++;
+                
             }else{
                 v2.push_back(nums[i]);
-                p2++;
+                
             }
         }
 
