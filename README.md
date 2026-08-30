@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -47,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
