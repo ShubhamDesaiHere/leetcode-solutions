@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0283-move-zeroes](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1872-stone-game-viii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -105,6 +106,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
