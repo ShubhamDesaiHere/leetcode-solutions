@@ -3,7 +3,7 @@ public:
     int solve(int i, int j, string &s, string &t,
               vector<vector<int>>& memo) {
 
-        if(j == t.size()) return 1;
+        if(j >= t.size()) return 1;
         if(i == s.size()) return 0;
 
         if(memo[i][j] != -1) return memo[i][j];
