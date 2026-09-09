@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1872-stone-game-viii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -138,6 +139,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -164,4 +166,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 <!---LeetCode Topics End-->
