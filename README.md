@@ -171,4 +171,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
