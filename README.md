@@ -174,13 +174,16 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
