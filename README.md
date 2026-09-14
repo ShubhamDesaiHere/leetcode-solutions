@@ -33,6 +33,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0836-rectangle-overlap](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1872-stone-game-viii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -204,4 +205,8 @@
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
