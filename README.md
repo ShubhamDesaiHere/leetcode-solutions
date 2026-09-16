@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0136-single-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -116,6 +117,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
