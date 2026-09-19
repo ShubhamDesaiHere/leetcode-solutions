@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -230,4 +231,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
