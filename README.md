@@ -87,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0242-valid-anagram](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -146,6 +147,7 @@
 | [0041-first-missing-positive](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -191,6 +193,7 @@
 | [0169-majority-element](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
