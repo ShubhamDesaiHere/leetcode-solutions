@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0835-image-overlap](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
@@ -144,6 +145,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -188,6 +190,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
