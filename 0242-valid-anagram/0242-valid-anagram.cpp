@@ -1,8 +1,9 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        vector <char> set1;
-        vector <char> set2;
+      if (s.length() != t.length()) {
+            return false;
+        }
 
 
         sort(s.begin(),s.end());
