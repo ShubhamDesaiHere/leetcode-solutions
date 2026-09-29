@@ -34,8 +34,8 @@ public:
         if ((m + n - 1) % 2 != 0)
             return false;
 
-        if (grid[0][0] == ')' || grid[m - 1][n - 1] == '(')
-            return false;
+       // if (grid[0][0] == ')' || grid[m - 1][n - 1] == '(')
+         //   return false;
 
         memset(dp, -1, sizeof(dp));
 
