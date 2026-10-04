@@ -1,27 +1,31 @@
 class Solution {
+    bool c(string& s,int n,int i,int b,vector<vector<int>>& dp ){
+        bool v=false;
+
+        if (b < 0)
+            return false;
+
+        if (i == n) {
+            return b == 0;
+        }
+        if (dp[i][b] != -1)
+            return dp[i][b];
+
+        
+        if (s[i]=='(') v =v || c(s,n,i+1,b+1,dp);
+        else if  (s[i]==')') v=v || c(s,n,i+1,b-1,dp);
+        else{
+           v=v || c(s,n,i+1,b-1,dp);
+           v=v || c(s,n,i+1,b+1,dp);
+           v = v || c(s, n, i + 1, b,dp);
+        }
+        return dp[i][b]=v;
+    }
 public:
     bool checkValidString(string s) {
-        int l = 0, h = 0;
-
-        for (char c : s) {
-            if (c == '(') {
-                l++;
-                h++;
-            }
-            else if (c == ')') {
-                l--;
-                h--;
-            }
-            else { // c == '*'
-                l--;
-                h++;
-            }
-
-            if (h < 0) return false;
-
-            l = max(l, 0);
-        }
-
-        return l == 0;
+        if (s.size()==1 && s!="*") return false;
+        int n=s.size();
+        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+        return c(s,s.size(),0,0,dp);
     }
 };
