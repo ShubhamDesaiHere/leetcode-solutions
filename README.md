@@ -17,6 +17,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -74,6 +75,7 @@
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -237,6 +239,7 @@
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
