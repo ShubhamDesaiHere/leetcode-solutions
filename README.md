@@ -36,6 +36,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -238,6 +239,7 @@
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,12 +270,14 @@
 | [0301-remove-invalid-parentheses](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +323,7 @@
 | ------- | ------- |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
