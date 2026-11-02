@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0835-image-overlap](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -60,6 +61,7 @@
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -256,6 +258,7 @@
 | [0217-contains-duplicate](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
