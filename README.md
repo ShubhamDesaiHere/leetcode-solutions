@@ -34,6 +34,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -193,6 +194,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Zero-Sum Game
@@ -227,6 +229,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
