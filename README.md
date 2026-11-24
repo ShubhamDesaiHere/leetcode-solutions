@@ -37,6 +37,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -79,6 +80,7 @@
 | [2409-count-days-spent-together](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -121,6 +123,7 @@
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +242,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +254,7 @@
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
