@@ -62,6 +62,7 @@
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@
 | [2409-count-days-spent-together](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3360-stone-removal-game](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/ShubhamDesaiHere/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
